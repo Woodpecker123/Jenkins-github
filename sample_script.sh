@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Starting the build process...Ok"
+echo "Starting the build process..."
 sleep 2
 echo "Build complete!"
